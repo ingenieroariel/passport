@@ -1,4 +1,5 @@
-ngo settings for GeoNode project.
+# -*- coding: utf-8 -*-
+# Django settings for GeoNode project.
 from urllib import urlencode
 import os
 import geonode
